@@ -1,0 +1,4 @@
+Changes In Version 2.2.0:
+- Improved the workplace's scripts.
+- Modified files' headings.
+- Updated standard internal project's files.
